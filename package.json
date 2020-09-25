@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Rost-is-love/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.20"
-  }
+  },
+  "devDependencies": {}
 }
